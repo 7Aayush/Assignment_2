@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
 
 
 txt = "Python is a case sensitive language"
@@ -26,7 +23,7 @@ f=txt.replace(' ','')
 print(f)
 
 
-# In[ ]:
+
 
 
 a= "Aayush Bhalla"
@@ -39,7 +36,6 @@ print("My SID is "+ b +"\n")
 print("I am from "+ c + " department and my CGPA is "+ d)
 
 
-# In[ ]:
 
 
 a=56
@@ -63,7 +59,7 @@ r_shift2=b>>2 #right shift b with 2 bits
 print("right shifting a with 2 bits = "+ str(r_shift1) + "\nright shifting b with 2 bits = "+ str(r_shift2))
 
 
-# In[ ]:
+
 
 
 txt=str(input())
@@ -76,7 +72,7 @@ else:
     print("No")
 
 
-# In[ ]:
+
 
 
 a=int(input())
@@ -92,7 +88,7 @@ while a>b+c or b>a+c or c>a+b:
     break
 
 
-# In[ ]:
+
 
 
 print("enter 1st number")
